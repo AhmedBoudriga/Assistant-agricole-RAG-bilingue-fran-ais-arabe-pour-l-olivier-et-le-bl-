@@ -12,3 +12,5 @@ chunking:
 
 retrieval:
   top_k: 5
+ocr:
+  dpi: 300

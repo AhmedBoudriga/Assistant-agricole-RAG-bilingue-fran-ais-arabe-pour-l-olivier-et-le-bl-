@@ -1,2 +1,3 @@
 doc_id,titre,organisme,langue,culture,annee,url,licence,licence_verifiee,fichier_local,notes
 ble_fr_001,Principaux ravageurs du ble et de l'orge,ICARDA,fr,ble,,,CC-BY-SA-4.0,non,data/raw/ble_fr_001.pdf,
+ble_fr_002,Guide pratique pour la protection phytosanitaire des cereales et legumineuses alimentaires,INRA Maroc (avec INRAT),fr,cereales,2015,https://hdl.handle.net/20.500.11766/7529,CC-BY-SA-4.0,oui,data/raw/ble_fr_002.pdf,scan de 92 pages ; OCR necessaire ; contexte Maroc
