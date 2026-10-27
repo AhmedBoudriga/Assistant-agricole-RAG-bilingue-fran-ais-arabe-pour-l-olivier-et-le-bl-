@@ -1,0 +1,14 @@
+seed: 42
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  eval: data/eval
+  results: results
+
+chunking:
+  max_words: 200
+  overlap_words: 40
+
+retrieval:
+  top_k: 5
